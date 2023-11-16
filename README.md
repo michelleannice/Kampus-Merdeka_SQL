@@ -1,6 +1,8 @@
 # Kampus-Merdeka_SQL
 
-SQL (Structure Query Language) merupakan bahasa pemrograman yang menjadi standar untuk pengolahan data pada DBMS (Database Management System)
-Terdapat 2 kelompok penggunaan perintah SQl, yaitu:
+SQL (Structured Query Language) is a programming language that serves as the standard for data processing in Database Management Systems (DBMS).
+There are two groups of SQL commands:
+
 1. Data Definition Language (DDL)
-2. Data Manipulation Language (DML): perintah SQL yang digunakan untuk melakukan manipulasi terhadap objek-objek basis data, seperti SELECT, INSERT, UPDATE, DELETE
+2. Data Manipulation Language (DML): SQL commands used to manipulate objects in the database, such as SELECT, INSERT, UPDATE, DELETE.
+
